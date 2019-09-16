@@ -1,0 +1,32 @@
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
+Queria usar o msfvenom, mas como não tenho vou imprimir aqui os valores da entrada: 
+trojan-rede.exe
+127.0.0.1
+4444
